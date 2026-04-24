@@ -1,0 +1,7 @@
+{
+  "name": "Asraf Portfolio & CMS",
+  "description": "A production-ready professional portfolio for web developers with a built-in Firebase admin dashboard for full content management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
